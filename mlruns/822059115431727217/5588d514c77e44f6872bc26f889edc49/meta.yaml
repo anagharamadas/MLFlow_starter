@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/822059115431727217/5588d514c77e44f6872bc26f889edc49/artifacts
+end_time: 1757524959377
+entry_point_name: ''
+experiment_id: '822059115431727217'
+lifecycle_stage: active
+run_id: 5588d514c77e44f6872bc26f889edc49
+run_name: gentle-wolf-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757524957384
+status: 3
+tags: []
+user_id: anagharamadas
