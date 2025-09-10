@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/705843249392936403/14cd7f9c01d94529953789819f1a4f1d/artifacts
+end_time: 1756858510743
+entry_point_name: ''
+experiment_id: '705843249392936403'
+lifecycle_stage: active
+run_id: 14cd7f9c01d94529953789819f1a4f1d
+run_name: clean-turtle-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756858510715
+status: 3
+tags: []
+user_id: anagharamadas

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/705843249392936403/484bba794f844099b3c05d4657b284d2/artifacts
+end_time: 1756858510807
+entry_point_name: ''
+experiment_id: '705843249392936403'
+lifecycle_stage: active
+run_id: 484bba794f844099b3c05d4657b284d2
+run_name: dashing-toad-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756858510786
+status: 3
+tags: []
+user_id: anagharamadas
