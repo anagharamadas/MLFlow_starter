@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/822059115431727217/a441d58fc3734ae8a2ab5731483283db/artifacts
+end_time: 1757566044570
+entry_point_name: ''
+experiment_id: '822059115431727217'
+lifecycle_stage: active
+run_id: a441d58fc3734ae8a2ab5731483283db
+run_name: lyrical-foal-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757566042720
+status: 3
+tags: []
+user_id: anagharamadas
